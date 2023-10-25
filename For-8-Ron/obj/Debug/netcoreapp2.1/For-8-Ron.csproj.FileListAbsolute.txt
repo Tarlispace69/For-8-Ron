@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\bin\Debug\netcoreapp2.1\For-8-Ron.deps.json
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\bin\Debug\netcoreapp2.1\For-8-Ron.runtimeconfig.json
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\bin\Debug\netcoreapp2.1\For-8-Ron.runtimeconfig.dev.json
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\bin\Debug\netcoreapp2.1\For-8-Ron.dll
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\bin\Debug\netcoreapp2.1\For-8-Ron.pdb
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\obj\Debug\netcoreapp2.1\For-8-Ron.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\obj\Debug\netcoreapp2.1\For-8-Ron.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\obj\Debug\netcoreapp2.1\For-8-Ron.AssemblyInfo.cs
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\obj\Debug\netcoreapp2.1\For-8-Ron.dll
+C:\Users\user\Downloads\For-8-Ron\For-8-Ron\obj\Debug\netcoreapp2.1\For-8-Ron.pdb
